@@ -1,0 +1,57 @@
+.container-fluid{
+    background-color:white;
+
+}
+.navbar{
+    padding: 0;
+    font-weight: bolder;
+    font-size: larg;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+}
+#navbarNavDropdown{
+    justify-content: flex-start;
+    align-items: center;
+}
+.logoklasse{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.nav-link{
+    margin: 10px;
+    color: black;
+}
+.nav-link:hover{
+    color: #006cec;
+}
+.dropdown-item{
+    color: black;
+    font-size: larg;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.dropdown-item:hover{
+    color: #006cec;
+    background-color: transparent;
+}
+.offertebtn{
+    color: #006cec;
+    font-weight: 500;
+    font-size: larg;
+    border-color: #006cec;
+    margin-right: 30px;
+}
+.bg-dark{
+    background-image: url(./images/badkamerblauw.png);
+    min-height: 640px;
+}
+.py-5 {
+    padding-top: 10rem !important;
+    padding-bottom: 3rem !important;
+    justify-content: flex-start;
+}
+.fs-5{
+    color: white;
+    font-weight: bold;
+}
